@@ -17,7 +17,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChathuNilmi&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-- 🌱 I'm currently learning **Business Analytics (IT)**
+- 🌱 I'm currently learning **🌱 Business Analytics (IT) and Flutter UI/UX Designing**
 - 💬 Ask me about **Figma**
 - 📫 Reach me at **chathunilmi@gmail.com**
 - ⚡ Fun fact **Call me Oink Oink**
@@ -69,8 +69,6 @@
   </td>
 </tr>
 </table>
-
-<p align="center">🌱 I'm currently learning Business Analytics (IT) and Flutter UI/UX Designing</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
