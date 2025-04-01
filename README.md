@@ -1,15 +1,14 @@
-
-<h1 align="center"><span style="color: cyan; text-shadow: 0px 0px 10px cyan;">Hi 👾, I'm Chathu Nilmi Dinusha</span></h1>
+<h1 align="center"><span style="color: lightpink; text-shadow: 0px 0px 10px lightpink;">Hi 👾, I'm Chathu Nilmi Dinusha</span></h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<div align="center">
+<div align="center" style="background-color: lightpink; padding: 10px; border-radius: 10px;">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
-<h3 align="center"><span style="color: magenta; text-shadow: 0px 0px 10px magenta;">A passionate Business Analytics and UI/UX Designer from Sri Lanka</span></h3>
+<h3 align="center"><span style="color: lightpink; text-shadow: 0px 0px 10px lightpink;">A passionate Business Analytics and UI/UX Designer from Sri Lanka</span></h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ChathuNilmi&label=Profile%20views&color=00ffff&style=flat" alt="ChathuNilmi" />
+  <img src="https://komarev.com/ghpvc/?username=ChathuNilmi&label=Profile%20views&color=ffb6c1&style=flat" alt="ChathuNilmi" />
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -19,7 +18,7 @@
 
 - 🌱 I'm currently learning **🌱 Business Analytics (IT) and Flutter UI/UX Designing**
 - 💬 Ask me about **Figma**
-- 📫 Reach me at **chathunilmi@gmail.com**
+- 퉰 Reach me at **chathunilmi@gmail.com**
 - ⚡ Fun fact **Call me Oink Oink**
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -31,26 +30,21 @@
 <a href="https://www.instagram.com/chathu_nilmi?igsh=MXg1Mml2ZGpoM2EwbQ==" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="ChathuNilmi" height="50" width="50" /></a>
 </p>
 
-
 ### 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-ffb6c1.svg?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-ffb6c1.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-ffb6c1.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/flutter-ffb6c1.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
+### 🧐 &nbsp;Version Control & Tools <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 
-### 🧰 &nbsp;Version Controll & Tools <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=Figma&logoColor=white)
-
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![Git](https://img.shields.io/badge/git-ffb6c1.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-ffb6c1.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-ffb6c1.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-ffb6c1.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-ffb6c1.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -69,7 +63,5 @@
   </td>
 </tr>
 </table>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">⚡ Let's Build Something Awesome! ⚡</h3>
